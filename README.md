@@ -1,2 +1,3 @@
 # cartographers
-An implementation of the Cartographers board game
+
+An implementation of the [Cartographers](https://thunderworksgames.com/products/cartographers-board-game) board game.
