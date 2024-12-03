@@ -1,0 +1,7 @@
+{
+  "compilerOptions": {
+    "outDir": "public/scripts/",
+    "strict": true
+  },
+  "include": ["client/scripts/**/*.ts"]
+}

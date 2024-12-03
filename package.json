@@ -1,0 +1,24 @@
+{
+  "name": "cartographers",
+  "version": "1.0.0",
+  "description": "An implementation of the Cartographers board game",
+  "keywords": [
+    "cartographers",
+    "board game",
+    "multiplayer"
+  ],
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "compile": "tsc",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lafeingcrokodil/cartographers.git"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
+}
